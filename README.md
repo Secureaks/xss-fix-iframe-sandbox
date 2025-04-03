@@ -20,4 +20,4 @@ This code is licensed under the [MIT License](https://opensource.org/licenses/MI
 
 ## Author
 
-This code was written by Romain Garcia for [Secureaks](https://www.secureaks.com).
+This code was written by Romain Garcia for [Secureaks](https://secureaks.com).
